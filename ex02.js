@@ -1,6 +1,6 @@
-// function areaCalculator(width, height) {
-// 	return width * height
-// }
+function areaCalculator(width, height) {
+	return width * height
+}
 
-// console.log(areaCalculator(1, 3));
-// console.log(areaCalculator(1, 0));
+console.log(areaCalculator(1, 3));
+console.log(areaCalculator(1, 0));
